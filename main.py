@@ -16,6 +16,9 @@ def woohoo(name):
 def foo(x):
     print(x)
 
+def bar(y):
+    return y
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
